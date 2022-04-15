@@ -1,0 +1,53 @@
+  body {
+	    font-family: 'Roboto', sans-serif;
+	    color: #ffff;
+      background: #000000;
+    
+      background-image: url('sitebg.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    
+         }
+		 
+
+.container {
+          height: 100%;
+          width: 100%;
+          display: flex;
+          position: fixed;
+          align-items: center;
+          justify-content: center;
+ }
+
+		 
+	 h1 {
+	  font-size: 30px;
+         }
+		
+
+        p {
+          font-size: 20px;
+        }
+	   
+
+	   a {
+		 font-size: 16px; 
+		 
+	   }
+	   
+        a:link {
+          color: #ffff;
+        }
+        
+        a:visited {
+          color: #ffff;
+        }
+
+        a:hover {
+          color: #ffff;
+        }
+        
+        a:active {
+          color: #ffff;
+        }
