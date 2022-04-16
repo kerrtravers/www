@@ -1,0 +1,23 @@
+@media screen and (min-width: 767px) {
+.main {
+    padding-left: 274px;
+    padding-right: 274px;
+}
+}
+
+.hero {
+    text-align: center;
+}
+
+
+h5 {
+    color: #000;
+    padding-bottom: 5px;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.01); }
+
+.emoji {
+    cursor: pointer;
+}
