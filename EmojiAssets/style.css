@@ -1,4 +1,8 @@
 @media screen and (min-width: 767px) {
+
+  body {
+    background-color: white ;
+  }
 .main {
     padding-left: 274px;
     padding-right: 274px;
@@ -11,7 +15,7 @@
 
 
 h5 {
-    color: #000;
+    color: black;
     padding-bottom: 5px;
 }
 
@@ -20,4 +24,20 @@ h5 {
 
 .emoji {
     cursor: pointer;
+}
+
+a:link {
+  color: #ffff;
+}
+
+a:visited {
+  color: #ffff;
+}
+
+a:hover {
+  color: #ffff;
+}
+
+a:active {
+  color: #ffff;
 }
