@@ -1,7 +1,7 @@
   body {
-	    font-family: 'Roboto', sans-serif;
-	    color: #ffff;
-      background: #000000;
+	    font-family: 'Bebas Neue', cursive;
+	    color: #04291d;
+            background: #ccdcd4;
 
          }
 
@@ -17,7 +17,7 @@
 
 
 	 h1 {
-	  font-size: 30px;
+	  font-size: 40px;
 		 font-family: 'Bebas Neue', cursive;
          }
 
